@@ -5,14 +5,14 @@
   <a href="https://dev.to/oluis">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev Badge"/>
   </a>
-  <a href="https://www.udemy.com/user/luis-fernando-borges-lima/">
+  <a href="https://www.udemy.com/user/oluis/">
     <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy Badge"/>
   </a>
 </div>
 <br>
 
 <p>I am 17 years old and currently studying system analysis and development, learning new <b>frameworks</b> to improve my projects.</p>
-<p>I have already contributed to very popular open source projects made in <b>Kotlin</b>, like <a href="https://github.com/kordlib/kord">Kord</a>, which made me evolve as a programmer.</p>
+<p>I have already contributed to very popular open source projects write in <b>Kotlin</b>, like <a href="https://github.com/kordlib/kord">Kord</a>, which made me evolve as a programmer.</p>
 <p>I sometimes tweet about tech-stuff. Feel free to reach me on <a href="https://www.linkedin.com/in/oluiss/">LinkedIn</a> about job-related matters.</p>
 <p>🌟Looking for new things!</p>
 <h3>Skills</h3>
