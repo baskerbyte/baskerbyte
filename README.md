@@ -1,9 +1,12 @@
-<img align="left" src="https://orhun.dev/img/crow.png">
+<img align="left" src="img/cat-sticker.png" width="120">
 <h3>Hey! I'm Luís</h3>
 <p>Passionate about technology and <b>code</b> since childhood.</p>
 <div id="badges">
   <a href="https://dev.to/baskerbyte">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev Badge"/>
+  </a>
+  <a href="https://www.tabnews.com.br/baskerbyte">
+    <img src="https://img.shields.io/badge/TabNews-0A0A0A?style=for-the-badge&logoColor=white" alt="TabNews badge">
   </a>
 </div>
 <br>
@@ -13,20 +16,57 @@
 <p>I sometimes tweet about tech-stuff. Feel free to reach me on <a href="https://www.linkedin.com/in/baskerbyte/">LinkedIn</a> about job-related matters.</p>
 <p>🌟Looking for new things!</p>
 <h3>Skills</h3>
-<div id="skills">
-  <a href="Kotlin">
+<h5>Backend</h5>
+<div>
+  <a>
     <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Badge"/>
-  <a href="Javascript">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge"/>
+  </a>
+  <a>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript Badge"/>
-  <a href="Rust">
+  </a>
+  <br>
+  <a>
     <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust Badge"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+  </a>
 </div>
-
-<div id="skills">
-  <a href="PostgreSQL">
+<h5>Frontend</h5>
+<div>
+  <a>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html Badge">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Css Badge">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge">
+  </a>
+</div>
+<h5>Database</h5>
+<div>
+  <a>
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="PostgreSQL Badge"/>
+  </a>
+  <a>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
-  <a href="MongoDB">
+  </a>
+  <a>
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
+  </a>
+</div>
+<h5>Hosting</h5>
+<div>
+  <a>
+    <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku badge">
+  </a>
 </div>
 
 <h3>Stats</h3>
