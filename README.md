@@ -1,5 +1,5 @@
 <div style="display: flex; margin-bottom: 20px;">
-    <img align="left" src="img/cat-sticker.png" width="180">
+    <img align="left" src="img/cat-sticker.png" width="180" height="160">
     <div style="margin-left: 10px;">
         <h3>Hey! I'm Luís</h3>
         <p>Passionate about technology and <b>code</b> since childhood.</p>
@@ -13,7 +13,7 @@
         </div>
     </div>
 </div>
-<br><br><br><br>
+<hr>
 <div>
     <p>I am 17 years old and currently studying system analysis and development, learning new <b>frameworks</b> to improve my projects.</p>
     <p>I have already contributed to very popular open source projects write in <b>Kotlin</b>, like <a href="https://github.com/kordlib/kord">Kord</a>, which made me evolve as a programmer.</p>
