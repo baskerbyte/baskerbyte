@@ -81,9 +81,3 @@
         </div>
     </div>
 </div>
-
-<h3>Stats</h3>
-<div id="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baskerbyte&show_icons=true&theme=dark#gh-dark-mode-only" alt="Readme stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baskerbyte&layout=compact&theme=dark#gh-dark-mode-only" alt="Readme languages stats"/>
-</div>
