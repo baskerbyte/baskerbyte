@@ -14,6 +14,7 @@
     </div>
 </div>
 <hr>
+<br>
 <div>
     <p>I am 17 years old and currently studying system analysis and development, learning new <b>frameworks</b> to improve my projects.</p>
     <p>I have already contributed to very popular open source projects write in <b>Kotlin</b>, like <a href="https://github.com/kordlib/kord">Kord</a>, which made me evolve as a programmer.</p>
