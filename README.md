@@ -13,7 +13,7 @@
         </div>
     </div>
 </div>
-<div>
+<div style="display: flex; flex-direction: column;">
     <p>I am 17 years old and currently studying system analysis and development, learning new <b>frameworks</b> to improve my projects.</p>
     <p>I have already contributed to very popular open source projects write in <b>Kotlin</b>, like <a href="https://github.com/kordlib/kord">Kord</a>, which made me evolve as a programmer.</p>
     <p>I sometimes tweet about tech-stuff. Feel free to reach me on <a href="https://www.linkedin.com/in/baskerbyte/">LinkedIn</a> about job-related matters.</p>
