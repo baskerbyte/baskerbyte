@@ -1,5 +1,5 @@
 <div style="display: flex;">
-    <img align="left" src="img/cat-sticker.png" style="max-width: 180px">
+    <img align="left" src="img/cat-sticker.png" width="180">
     <div style="margin-left: 10px;">
         <h3>Hey! I'm Luís</h3>
         <p>Passionate about technology and <b>code</b> since childhood.</p>
