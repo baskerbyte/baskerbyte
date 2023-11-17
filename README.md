@@ -1,6 +1,6 @@
-<div style="display: flex; margin-bottom: 20px;">
-    <img align="left" src="img/cat-sticker.png" width="180">
-    <div style="margin-left: 10px;">
+<div>
+    <img align="left" src="img/cat-sticker.png" width="180" alt="Sticker">
+    <div>
         <h3>Hey! I'm Luís</h3>
         <p>Passionate about technology and <b>code</b> since childhood.</p>
         <div>
@@ -16,15 +16,19 @@
 <hr>
 <br>
 <div>
-    <p>I am 17 years old and currently studying system analysis and development, learning new <b>frameworks</b> to improve my projects.</p>
-    <p>I have already contributed to very popular open source projects write in <b>Kotlin</b>, like <a href="https://github.com/kordlib/kord">Kord</a>, which made me evolve as a programmer.</p>
-    <p>I sometimes tweet about tech-stuff. Feel free to reach me on <a href="https://www.linkedin.com/in/baskerbyte/">LinkedIn</a> about job-related matters.</p>
-    <p>★ Looking for new things!</p>
+    <p>
+        Building solutions in code form for <b>5 years</b>,
+        with a journey in <b>11</b> personal repositories and collaborations in
+        <b>7</b> open-source projects, accumulating a total of
+        <b>36 stars ★</b>.
+    </p>
 </div>
 <details>
-    <summary><h3>Skills</h3></summary>
-    <div style="display: flex;">
-        <div style="flex: 1; margin-right: 10px;">
+    <summary>
+        <h3>Skills</h3>
+    </summary>
+    <div>
+        <div>
             <h4>Backend</h4>
             <a>
                 <img src="https://img.shields.io/badge/Kotlin-000000?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Badge"/>
@@ -42,7 +46,7 @@
                 <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=black" alt="Python Badge">
             </a>
         </div>
-        <div style="flex: 1;">
+        <div>
             <h4>Frontend</h4>
             <a>
                 <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="Html Badge">
@@ -55,8 +59,8 @@
             </a>
         </div>
     </div>
-    <div style="display: flex; margin-top: 20px;">
-        <div style="flex: 1; margin-right: 10px;">
+    <div>
+        <div>
             <h4>Database</h4>
             <div>
                 <a>
@@ -70,16 +74,33 @@
                 </a>
             </div>
         </div>
-    <div style="flex: 1;">
+    <div>
         <h5>Hosting</h5>
         <div>
             <a>
-                <img src="https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Badge">
+                <img src="https://img.shields.io/badge/Azure-FFFFFF?style=for-the-badge&logo=microsoft-azure&logoColor=black" alt="Azure Badge">
             </a>
             <a>
-                <img src="https://img.shields.io/badge/Heroku-FFFFFF?style=for-the-badge&logo=heroku&logoColor=black" alt="Heroku Badge">
+                <img src="https://img.shields.io/badge/Heroku-000000?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku Badge">
             </a>
         </div>
     </div>
 </div>
 </details>
+<div>
+    <p>
+        I'm currently studying System Analysis and Development. My goal is to learn a 
+        little about each area to improve my development skills.
+    </p>
+    <p>
+        I occasionally share insights about tech-related topics through <a href="https://baskrbyte.dev/blog">my blog</a>. You can reach
+        out to me on my website for job-related discussions.
+    </p>
+    <p>
+        Additionally, I'm currently pursuing studies in Software Engineering, aiming to specialize
+        as a tech lead in the future 🖤.
+    </p>
+    <p>
+        <i>~ <a href="https://baskrbyte.dev">baskrbyte.dev</a></i>
+    </p>
+</div>
